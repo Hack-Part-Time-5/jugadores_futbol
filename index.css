@@ -1,0 +1,13 @@
+.img_jugador {
+  height: 500px;
+}
+
+.card_jg_body {
+  display: flex;
+  position: absolute;
+  background:white;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-around;
+  display: none;
+}
